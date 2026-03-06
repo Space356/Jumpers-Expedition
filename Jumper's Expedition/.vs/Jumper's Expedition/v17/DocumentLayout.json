@@ -1,0 +1,334 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|c:\\users\\jholocheck\\documents\\github\\csharpclass\\jumper\u0027s expedition\\ui\\deathmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:ui\\deathmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\tile_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:tile_manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:ui\\pausemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|c:\\users\\jholocheck\\documents\\github\\csharpclass\\jumper\u0027s expedition\\general objects\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:general objects\\enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\general objects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:general objects\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\general objects\\floatingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:general objects\\floatingplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:collider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\jsons\\level1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:jsons\\level1.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\testplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:testplatform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\engine objects\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:engine objects\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\collisiongroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:collisiongroups.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\KeyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:KeyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\general objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{29CB7144-B2A2-4ECD-85A0-4C3C6627D0F4}|Jumper\u0027s Expedition.csproj|solutionrelative:general objects\\coin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\GlobalKeyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GlobalKeyManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\LoopingSampleProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:LoopingSampleProvider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AudioManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DeathMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\UI\\DeathMenu.cs",
+              "RelativeDocumentMoniker": "UI\\DeathMenu.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\UI\\DeathMenu.cs",
+              "RelativeToolTip": "UI\\DeathMenu.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T18:19:26.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Enemy.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Enemy.cs",
+              "RelativeDocumentMoniker": "General Objects\\Enemy.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Enemy.cs",
+              "RelativeToolTip": "General Objects\\Enemy.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAowFYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-29T18:41:38.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAqwBIBAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:27:57.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CollisionGroups.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\CollisionGroups.cs",
+              "RelativeDocumentMoniker": "CollisionGroups.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\CollisionGroups.cs",
+              "RelativeToolTip": "CollisionGroups.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:35:32.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Engine Objects\\Sprite.cs",
+              "RelativeDocumentMoniker": "Engine Objects\\Sprite.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Engine Objects\\Sprite.cs",
+              "RelativeToolTip": "Engine Objects\\Sprite.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAGAAAADbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T18:02:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "KeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\KeyManager.cs",
+              "RelativeDocumentMoniker": "KeyManager.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\KeyManager.cs",
+              "RelativeToolTip": "KeyManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:12:09.263Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:27:54.345Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TestPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\TestPlatform.cs",
+              "RelativeDocumentMoniker": "TestPlatform.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\TestPlatform.cs",
+              "RelativeToolTip": "TestPlatform.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:26:02.4Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "tile_manager.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\tile_manager.cs",
+              "RelativeDocumentMoniker": "tile_manager.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\tile_manager.cs",
+              "RelativeToolTip": "tile_manager.cs",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAwE4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:23:31.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "level1.json",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\jsons\\level1.json",
+              "RelativeDocumentMoniker": "jsons\\level1.json",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\jsons\\level1.json",
+              "RelativeToolTip": "jsons\\level1.json",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACwAAABxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-01-14T18:19:11.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Player.cs",
+              "RelativeDocumentMoniker": "General Objects\\Player.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Player.cs",
+              "RelativeToolTip": "General Objects\\Player.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwDIAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:08:29.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PauseMenu.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\UI\\PauseMenu.cs",
+              "RelativeDocumentMoniker": "UI\\PauseMenu.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\UI\\PauseMenu.cs",
+              "RelativeToolTip": "UI\\PauseMenu.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAUwEcAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-17T18:16:33.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FloatingPlatform.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\FloatingPlatform.cs",
+              "RelativeDocumentMoniker": "General Objects\\FloatingPlatform.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\FloatingPlatform.cs",
+              "RelativeToolTip": "General Objects\\FloatingPlatform.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T18:30:51.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Collider.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Collider.cs",
+              "RelativeDocumentMoniker": "Collider.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Collider.cs",
+              "RelativeToolTip": "Collider.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAIAwwGkAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:11:55.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Coin.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Coin.cs",
+              "RelativeDocumentMoniker": "General Objects\\Coin.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\General Objects\\Coin.cs",
+              "RelativeToolTip": "General Objects\\Coin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:08:02.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "GlobalKeyManager.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\GlobalKeyManager.cs",
+              "RelativeDocumentMoniker": "GlobalKeyManager.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\GlobalKeyManager.cs",
+              "RelativeToolTip": "GlobalKeyManager.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T18:12:11.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Button.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Button.cs",
+              "RelativeDocumentMoniker": "Button.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\Button.cs",
+              "RelativeToolTip": "Button.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowEUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-16T18:28:19.5Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoopingSampleProvider.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\LoopingSampleProvider.cs",
+              "RelativeDocumentMoniker": "LoopingSampleProvider.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\LoopingSampleProvider.cs",
+              "RelativeToolTip": "LoopingSampleProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:15:53.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AudioManager.cs",
+              "DocumentMoniker": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\AudioManager.cs",
+              "RelativeDocumentMoniker": "AudioManager.cs",
+              "ToolTip": "C:\\Users\\jholocheck\\Documents\\GitHub\\CSharpClass\\Jumper\u0027s Expedition\\AudioManager.cs",
+              "RelativeToolTip": "AudioManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T18:15:01.518Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

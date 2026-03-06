@@ -1,0 +1,100 @@
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.exe.config
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.exe
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.pdb
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Asio.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Core.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Midi.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Wasapi.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinForms.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinMM.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.AccessControl.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Asio.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Core.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Midi.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Wasapi.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinForms.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinMM.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.AccessControl.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.AssemblyReference.cache
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper_s_Expedition.Form1.resources
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper_s_Expedition.Properties.Resources.resources
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.GenerateResource.cache
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.CoreCompileInputs.cache
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's.808642B4.Up2Date
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.exe
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.pdb
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.exe.config
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Buffers.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.IO.Pipelines.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Memory.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Json.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Buffers.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.IO.Pipelines.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Memory.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Json.xml
+C:\Users\jholocheck\Documents\GitHub\CSharpClass\Jumper's Expedition\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.exe.config
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.exe
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Graphics Game Template.pdb
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Win32.Registry.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Asio.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Core.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Midi.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Wasapi.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinForms.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinMM.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Buffers.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.IO.Pipelines.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Memory.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Numerics.Vectors.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.AccessControl.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.Principal.Windows.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Encodings.Web.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Json.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\Microsoft.Win32.Registry.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Asio.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Core.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Midi.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.Wasapi.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinForms.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\NAudio.WinMM.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Buffers.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.IO.Pipelines.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Memory.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Numerics.Vectors.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.AccessControl.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Security.Principal.Windows.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Encodings.Web.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Text.Json.xml
+D:\github\CSharpClass\Jumper's Expedition\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.AssemblyReference.cache
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.exe.config
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper_s_Expedition.Form1.resources
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper_s_Expedition.Properties.Resources.resources
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.GenerateResource.cache
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's Expedition.csproj.CoreCompileInputs.cache
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Jumper's.808642B4.Up2Date
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.exe
+D:\github\CSharpClass\Jumper's Expedition\obj\Debug\Graphics Game Template.pdb
